@@ -1,0 +1,26 @@
+.navbar-brand{
+	font-size: 30px;
+	margin-right: 50px;
+	color: white;
+	text-shadow: 2px 1px #67c136;
+	transition: color 0.5s;
+	
+}
+.navbar-brand:hover{
+	color: #67c136;
+	text-shadow: 2px 1px white;
+}
+.flex-grow{
+	flex: 1;
+}
+#ahorroDisplayed{
+	color: green;
+}
+
+
+.navbar{
+	background-color: #C6DABF;
+}
+body{
+	background-color: #fff9ed;
+}
